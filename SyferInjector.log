@@ -1,0 +1,45 @@
+2025-05-04 04:52:31.152 [INFO] Logger initialized
+2025-05-04 04:52:31.152 [INFO] Application started
+2025-05-04 04:52:31.152 [WARNING] Running in demonstration mode (not on Windows)
+2025-05-04 04:52:31.152 [INFO] DLLInjector initialized
+2025-05-04 04:52:31.152 [WARNING] Current platform is not Windows. Limited functionality available.
+2025-05-04 04:52:31.153 [INFO] DLL file found: /home/runner/workspace/Syfer-eng.dll
+2025-05-04 04:52:31.154 [INFO] Searching for process: ModernWarfare3.exe
+2025-05-04 04:52:31.154 [WARNING] GetProcessIdByName is only supported on Windows. Using demo mode.
+2025-05-04 04:52:31.154 [ERROR] DLL injection is only supported on Windows
+2025-05-04 05:03:56.881 [INFO] Logger initialized
+2025-05-04 05:03:56.881 [INFO] Application started
+2025-05-04 05:03:56.882 [WARNING] Running in demonstration mode (not on Windows)
+2025-05-04 05:03:56.882 [INFO] DLLInjector initialized
+2025-05-04 05:03:56.882 [WARNING] Current platform is not Windows. Limited functionality available.
+2025-05-04 05:03:56.882 [INFO] DLL file found: /home/runner/workspace/Syfer-eng.dll
+2025-05-04 05:03:56.882 [INFO] Searching for process: ModernWarfare3.exe
+2025-05-04 05:03:56.882 [WARNING] GetProcessIdByName is only supported on Windows. Using demo mode.
+2025-05-04 05:03:56.982 [ERROR] DLL injection is only supported on Windows
+2025-05-04 05:04:09.540 [INFO] Logger initialized
+2025-05-04 05:04:09.541 [INFO] Application started
+2025-05-04 05:04:09.541 [WARNING] Running in demonstration mode (not on Windows)
+2025-05-04 05:04:09.541 [INFO] DLLInjector initialized
+2025-05-04 05:04:09.541 [WARNING] Current platform is not Windows. Limited functionality available.
+2025-05-04 05:04:09.541 [INFO] DLL file found: /home/runner/workspace/Syfer-eng.dll
+2025-05-04 05:04:09.541 [INFO] Searching for process: ModernWarfare3.exe
+2025-05-04 05:04:09.541 [WARNING] GetProcessIdByName is only supported on Windows. Using demo mode.
+2025-05-04 05:04:09.641 [ERROR] DLL injection is only supported on Windows
+2025-05-04 05:08:28.693 [INFO] Logger initialized
+2025-05-04 05:08:28.694 [INFO] Application started
+2025-05-04 05:08:28.694 [WARNING] Running in demonstration mode (not on Windows)
+2025-05-04 05:08:28.694 [INFO] DLLInjector initialized
+2025-05-04 05:08:28.694 [WARNING] Current platform is not Windows. Limited functionality available.
+2025-05-04 05:08:28.694 [INFO] DLL file found: /home/runner/workspace/Syfer-eng.dll
+2025-05-04 05:08:28.695 [INFO] Searching for process: cod.exe
+2025-05-04 05:08:28.695 [WARNING] GetProcessIdByName is only supported on Windows. Using demo mode.
+2025-05-04 05:08:28.695 [ERROR] DLL injection is only supported on Windows
+2025-05-04 05:08:33.831 [INFO] Logger initialized
+2025-05-04 05:08:33.831 [INFO] Application started
+2025-05-04 05:08:33.831 [WARNING] Running in demonstration mode (not on Windows)
+2025-05-04 05:08:33.831 [INFO] DLLInjector initialized
+2025-05-04 05:08:33.831 [WARNING] Current platform is not Windows. Limited functionality available.
+2025-05-04 05:08:33.831 [INFO] DLL file found: /home/runner/workspace/Syfer-eng.dll
+2025-05-04 05:08:33.831 [INFO] Searching for process: cod.exe
+2025-05-04 05:08:33.831 [WARNING] GetProcessIdByName is only supported on Windows. Using demo mode.
+2025-05-04 05:08:33.931 [ERROR] DLL injection is only supported on Windows
