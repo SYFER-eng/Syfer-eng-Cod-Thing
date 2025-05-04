@@ -22,7 +22,7 @@
 ## Usage
 
 1. Place your `Syfer-eng.dll` in the same directory as the injector
-2. Launch Call of Duty: Modern Warfare III
+2. Launch Call of Duty
 3. Run `SyferInjector.exe` as Administrator
 4. The injector will automatically find the game and inject the DLL
 
