@@ -154,7 +154,7 @@ void ShowSpinner(const std::string& message, std::shared_ptr<Logger> logger, boo
 
 int main() {
     // Set console title
-    SetConsoleTitle("Syfer Injector v2.0 for CoD: MW III");
+    SetConsoleTitle("Syfer Injector v1.0 for CoD");
     
     // Create logger
     auto logger = std::make_shared<Logger>("SyferInjector.log");
