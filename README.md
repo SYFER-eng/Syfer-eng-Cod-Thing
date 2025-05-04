@@ -3,9 +3,9 @@
 
 ![Syfer DLL Injector](https://raw.githubusercontent.com/SYFER-eng/Syfer-eng-Cod-Thing/refs/heads/main/Terminal.png)
 
-###[Cod Dll]()
+[Cod Dll]()
 
-## Features
+## Feaures
 
 - **Clean, Professional UI**: Console-based UI with color coding and clear status messages
 - **Robust Error Handling**: Detailed error messages with Windows error code translation
