@@ -1,7 +1,7 @@
 # Syfer DLL Injector for Call of Duty
 
 
-![Syfer DLL Injector]([generated-icon.png](https://raw.githubusercontent.com/SYFER-eng/Syfer-eng-Cod-Thing/refs/heads/main/Terminal.png))
+![Syfer DLL Injector](https://raw.githubusercontent.com/SYFER-eng/Syfer-eng-Cod-Thing/refs/heads/main/Terminal.png)
 
 ## Features
 
