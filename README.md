@@ -1,6 +1,5 @@
-# Syfer DLL Injector for Call of Duty: Modern Warfare III
+# Syfer DLL Injector for Call of Duty: Modern Warfarer
 
-A professional-grade DLL injector specifically designed for Call of Duty: Modern Warfare III, with enhanced error handling, user feedback, and a modern interface.
 
 ![Syfer DLL Injector](generated-icon.png)
 
@@ -31,8 +30,7 @@ A professional-grade DLL injector specifically designed for Call of Duty: Modern
 
 ### Using Visual Studio (Windows)
 1. Open `SyferInjector.sln` in Visual Studio
-2. Select your build configuration (Debug/Release, x86/x64)
-3. Build the solution (F7)
+2. Select your build configuration (Debug/Release, x86/x64)-
 
 ### Using Command Line (All Platforms)
 ```bash
@@ -60,11 +58,3 @@ This DLL injector uses the Remote Thread Injection technique:
 3. Writes the DLL path to the allocated memory with `WriteProcessMemory`
 4. Creates a remote thread with `CreateRemoteThread` that calls `LoadLibraryA`
 5. Waits for the thread to complete and cleans up resources
-
-## Legal Disclaimer
-
-This software is provided for educational purposes only. Use of this software to modify games may violate the terms of service of the game. The authors are not responsible for any bans or other consequences resulting from the use of this software.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
